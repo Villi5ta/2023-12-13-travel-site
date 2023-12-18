@@ -67,7 +67,7 @@
 
   .hero-page-wrapper {
     background-color: var(--main-color-purple);
-    background-image: linear-gradient(to top, rgba(245, 246, 252, 0.185), hsla(279, 98%, 50%, 0.414)), url('/2023-12-13 travel site/pictures/a380.jpg');
+    background-image: linear-gradient(to top, rgba(245, 246, 252, 0.185), hsla(279, 98%, 50%, 0.414)), url('./2023-12-13 travel site/pictures/a380.jpg');
     height: 750px;
     background-size:cover;
     position: relative;
